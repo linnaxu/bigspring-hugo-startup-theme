@@ -97,6 +97,5 @@ call_to_action:
     label: Contact Us
     link: contact
 title: ANDA
-draft: true
 
 ---
