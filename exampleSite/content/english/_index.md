@@ -1,7 +1,7 @@
 ---
 banner:
   title: 安达海外仓储
-  image: images/banner-art.svg
+  image: https://www.dropbox.com/home/LINNA/ANDA%20US%20LLC/%E6%B5%B7%E5%A4%96%E4%BB%93%E7%BD%91%E9%A1%B5%E5%8F%82%E8%80%83/%E5%AE%98%E7%BD%91?preview=cover+page.png
   content: 您的一站式海外仓储专家
   button:
     enable: true
