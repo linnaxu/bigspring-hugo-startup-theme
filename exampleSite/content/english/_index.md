@@ -1,10 +1,8 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: 安达海外仓储
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: 您的一站式海外仓储专家
   button:
     enable: true
     label: Contact With Us
@@ -99,5 +97,6 @@ call_to_action:
     label: Contact Us
     link: contact
 title: ANDA
+draft: true
 
 ---
