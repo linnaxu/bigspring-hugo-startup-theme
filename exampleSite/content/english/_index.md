@@ -1,7 +1,7 @@
 ---
 banner:
   title: 安达海外仓储
-  image: https://www.dropbox.com/s/o5zrfg2tlen78tk/cover%20page.png?dl=0
+  image: "/images/cover-page.png"
   content: 您的一站式海外仓储专家
   button:
     enable: true
