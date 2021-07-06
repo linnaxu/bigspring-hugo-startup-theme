@@ -34,7 +34,7 @@ service:
   service_item:
   - title: It is the most advanced digital marketing and it company.
     images:
-    - images/service-1.png
+    - "/images/cover-page.png"
     - images/service-2.png
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
